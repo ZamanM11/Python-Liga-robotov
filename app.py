@@ -68,4 +68,4 @@ admin.add_view(ModelView(Games, db.session))
  
  
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True) #fefef
